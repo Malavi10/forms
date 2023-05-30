@@ -1,0 +1,40 @@
+body{
+    background-color:lavender;
+}
+.wht{
+    background-color:white;
+    width:700px;
+    height:230px;
+    margin-bottom: 25px;
+    border-radius:10px;
+}
+
+.wht h1,h4,p,h3{
+    text-align: left;
+    margin:10px;
+    margin-left: 10px;
+}
+.wht span{
+    color:red;
+}
+.wht p{
+    color:red;
+}
+
+#wt{
+    background-color:white;
+    height:140px;
+    margin-bottom: 30px;
+}
+#wt form{
+    text-align: left;
+    margin-left: 10px;
+}
+
+#box{
+    border: none;
+    outline: none;
+    width:fit-content;
+    padding-left: 10px;
+}
+
